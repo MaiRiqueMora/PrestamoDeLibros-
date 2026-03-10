@@ -1,0 +1,19 @@
+https://django.wtf/blog/file-uploads-with-django-drf/
+
+
+[
+	{	"id":1,
+		"fullname":"Marcelo",
+		"nickname":"Malva",
+		"language":"Python",
+		"age":45,"
+		is_active":true
+	},
+	{	"id":2,
+		"fullname":"Johanna",
+		"nickname":"Johi",
+		"language":"C++",
+		"age":40,
+		"is_active":true
+	}
+]
